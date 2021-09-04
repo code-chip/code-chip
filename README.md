@@ -6,8 +6,9 @@
 </div>
 <div> 
   <a href="https://instagram.com/code.chip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:willvix@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "contato@codechip.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+  ![Snake animation](https://github.com/code-chip/code-chip/blob/output/github-contribution-grid-snake.svg)
 </div>  
 <!--
 **code-chip/code-chip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
